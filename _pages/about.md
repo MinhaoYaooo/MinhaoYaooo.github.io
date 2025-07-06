@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Biostatistics from [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/), [University of Hong Kong]](https://www.hku.hk/).
+I'm a PhD student in Biostatistics from [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/), [University of Hong Kong](https://www.hku.hk/).
