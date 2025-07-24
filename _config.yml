@@ -28,13 +28,13 @@ author:
   bio              : "PhD Student in Statistics"
   location         : "China"
   employer         : "Duke-NUS Medical School"
-  uri              : "https://minhaoyaooo.github.io"
+  uri              : https://minhaoyaooo.github.io
   email            : "mhyao@connect.hku.hk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=P6jrk6AAAAAJ&hl=zh-CN"
+  googlescholar    : https://scholar.google.com/citations?user=P6jrk6AAAAAJ&hl=zh-CN
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/MinhaoYaooo"
+  github           : https://github.com/MinhaoYaooo
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
