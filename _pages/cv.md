@@ -45,11 +45,6 @@ redirect_from:
     * *Aging (Albany NY)*, 16(7), 6384.
     * [Link](https://www.aging-us.com/article/205711/text)
 
-## Talks
-* **American Society of Human Genetics (ASHG 2024)**, Nov 2024
-    * Poster: "Deciphering proteins in Alzheimer’s disease: A new Mendelian randomization method integrated with AlphaFold3 for 3D structure prediction"
-* **International Chinese Statistical Association (ICSA 2023)**, July 2023
-    * Oral: "MR-SPI: Automatically Selecting Valid Genetic Instruments for Inferring Causal Relationships"
 
 ## Software
 ### [CoxMDS](https://github.com/MinhaoYaooo/CoxMDS)
